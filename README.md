@@ -1,4 +1,4 @@
 # githubpractice
 this is my first repository
 <br>
-author:kabin thapa
+author:kabin ( godar thapa)
